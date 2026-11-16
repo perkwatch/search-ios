@@ -1,0 +1,1 @@
+{"appId":"com.buckthem.search","appName":"BuckThem Search","backgroundColor":"#ffffff","ios":{"contentInset":"always","preferredContentMode":"mobile"},"packageClassList":["PushNotificationsPlugin","SharePlugin"],"server":{"androidScheme":"https","cleartext":false,"url":"https://search.buckthem.com/"},"webDir":"www"}
